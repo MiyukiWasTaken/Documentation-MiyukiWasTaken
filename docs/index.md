@@ -5,16 +5,16 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# Bienvenue sur ma documentation
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
-
-
-## À propos du Projet
-
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Bienvenue sur la documentation de mes travaux au sein du MakerSpace d'UniLaSalle Amiens. Vous trouverez ici une documentation continue dans lequelle est détaillé les avancements et erreurs/problèmes rencontrés chaque jours, vous trouverez également un menu déroulant dans lequel vous trouverez un onglet pour chaque projet réalisés.
 
 
+## Qui suis-je ?
+
+Je suis Raphaël PERU, un étudiant en Bachelor Systèmes Numériques et Technologies Innovante dans l'école d'ingénieur UniLaSalle Amiens, et je réalise un stage de 2 mois dans le MakerSpace de cette école.
+
+<!--
 ## Poster
 
 Ici vous publierez le poster de votre projet.
@@ -35,3 +35,5 @@ Ici vous publierez la vidéo de votre projet.
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
+-->
+## salut
