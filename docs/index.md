@@ -34,6 +34,5 @@ Ici vous publierez la vidéo de votre projet.
 
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
----
 -->
-## salut
+---
