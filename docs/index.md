@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 nav_order: 1
 title: Accueil
 permalink: /
@@ -37,4 +37,3 @@ Ici vous publierez la vidéo de votre projet.
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
 -->
----
