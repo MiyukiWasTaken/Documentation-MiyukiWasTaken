@@ -5,9 +5,11 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur ma documentation
+# Documatation de mon travail au MakerSpace
 
-Bienvenue sur la documentation de mes travaux au sein du MakerSpace d'UniLaSalle Amiens. Vous trouverez ici une documentation continue dans lequelle est détaillé les avancements et erreurs/problèmes rencontrés chaque jours, vous trouverez également un menu déroulant dans lequel vous trouverez un onglet pour chaque projet réalisés.
+## La documentation
+
+Bienvenue sur la site de documentation de mes travaux au sein du MakerSpace d'UniLaSalle Amiens. Vous trouverez ici une documentation continue dans lequelle est détaillé les avancements et erreurs/problèmes rencontrés chaque jours, puis vous trouverez également un menu déroulant dans lequel vous trouverez un onglet pour chaque projet réalisés.
 
 
 ## Qui suis-je ?
