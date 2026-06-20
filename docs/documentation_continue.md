@@ -34,5 +34,100 @@ Poursuite de la rédaction du Word, Assistance à mon camarade pour l'impression
 ### Jour 7 (Jeudi 18 juin)
 Utilisation d'un template GitHub basé sur "Just The Docs" permettant de créer un site internet hébergé par GitHub, site web sur lequel vous vous trouvez actuellement et qui me permettera de documenter la xTool P3 et d'autres machines. Mise en place de la documentation continue quia été suggeré par un collègue dans le but de tester si ce moyen de documentation serait interessant et pertinent pour les élèves de 1ère année qui sont moins accomodés avec les documentation.
 
-### Jour 8 (Vendredi 19 juin)
+### Jour 8 (Vendredi 19 juin 2026)
 Report des précédents jours dans la documentation continue. Assistance de mon camarade pour le rangement de la servante dans le stockage.
+
+## Semaine 3
+### Jour 9 (Lundi 22 juin 2026)
+
+
+### Jour 10 (Mardi 23 juin 2026)
+
+
+### Jour 11 (Mercredi 24 juin 2026)
+
+
+### Jour 12 (Jeudi 25 juin 2026)
+
+
+### Jour 13 (Vendredi 26 juin 2026)
+
+
+## Semaine 4
+### Jour 14 (Lundi 29 juin 2026)
+
+
+### Jour 15 (Mardi 30 juin 2026)
+
+
+### Jour 16 (Mercredi 1 juillet 2026)
+
+
+### Jour 17 (Jeudi 2 juillet 2026)
+
+
+### Jour 18 (Vendredi 3 juillet 2026)
+
+
+## Semaine 5
+### Jour 19 (Lundi 6 juillet 2026)
+
+
+### Jour 20 (Mardi 7 juillet 2026)
+
+
+### Jour 21 (Mercredi 8 juillet 2026)
+
+
+### Jour 22 (Jeudi 9 juillet 2026)
+
+
+### Jour 23 (Vendredi 10 juillet 2026)
+
+
+## Semaine 6
+### Jour 24 (Lundi 13 juillet 2026)
+
+
+### Jour 25 (Mardi 14 juillet 2026)
+
+
+### Jour 26 (Mercredi 15 juillet 2026)
+
+
+### Jour 27 (Jeudi 16 juillet 2026)
+
+
+### Jour 28 (Vendredi 17 juillet 2026)
+
+
+## Semaine 7
+### Jour 29 (Lundi 20 juillet 2026)
+
+
+### Jour 30 (Mardi 21 juillet 2026)
+
+
+### Jour 31 (Mercredi 22 juillet 2026)
+
+
+### Jour 32 (Jeudi 23 juillet 2026)
+
+
+### Jour 33 (Vendredi 24 juillet 2026)
+
+
+## Semaine 8
+### Jour 34 (Lundi 27 juillet 2026)
+
+
+### Jour 35 (Mardi 28 juillet 2026)
+
+
+### Jour 36 (Mercredi 29 juillet 2026)
+
+
+### Jour 37 (Jeudi 30 juillet 2026)
+
+
+### Jour 38 (Vendredi 31 juillet 2026)
