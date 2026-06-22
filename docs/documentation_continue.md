@@ -34,7 +34,7 @@ Poursuite de la rédaction du Word, Assistance à mon camarade pour l'impression
 ### Jour 7 (Jeudi 18 juin)
 Utilisation d'un template GitHub basé sur "Just The Docs" permettant de créer un site internet hébergé par GitHub, site web sur lequel vous vous trouvez actuellement et qui me permettera de documenter la xTool P3 et d'autres machines. Mise en place de la documentation continue quia été suggeré par un collègue dans le but de tester si ce moyen de documentation serait interessant et pertinent pour les élèves de 1ère année qui sont moins accomodés avec les documentation.
 
-### Jour 8 (Vendredi 19 juin)
+### Jour 8 (Vendredi 19 juin 2026)
 Report des précédents jours dans la documentation continue. Assistance de mon camarade pour le rangement de la servante dans le stockage.
 
 
