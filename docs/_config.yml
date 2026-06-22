@@ -6,8 +6,7 @@ description: Documentation des différentes activités réalisées au sein du Ma
 # Thème
 # remote_theme: Makerspace-Amiens/CraftTheDocs-V1.0
 theme: just-the-docs
-url: https://miyukiwastaken.github.io
-baseurl: "/Documentation-MiyukiWasTaken"
+url: https://github.com/Makerspace-Amiens
 
 # Paramètres optionnels de "Just the Docs"
 just_the_docs:
