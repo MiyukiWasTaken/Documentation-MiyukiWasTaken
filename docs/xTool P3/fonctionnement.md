@@ -106,6 +106,20 @@ Appuyez ensuite sur le bouton « Preview » pour obtenir une simulation digitale
 
 **[Image d'une preview d'un projet]**
 
----
+Si tout est correct, cliquez sur "Start" pour envoyer le job à la machine, puis appuyez sur le bouton à droite de la machine pour commencer le travail.
 
-*Placeholders d'images et GIFs laissés tels quels — remplacez-les par les médias souhaités lorsque vous les aurez.*
+**[Image du bouton Start entouré de rouge avec une flèche, avec la vue de quand un job est envoyé dessus]**
+
+## Pendant le job
+
+RESTEZ BIEN DEVANT LA P3 DURANT L'**ENTIERETÉ** DU JOB.
+
+Il est obligatoire de vérifier le bon déroulement du job pour éviter un déprat d'incendie lorsque vous avez le dos tourné. Si vous devez pour X ou Y raisons vous éloigner de la machine, vous êtes dans l'obligation de mettre en pause la machine avec le même bouton qui permet de démarer le job.
+
+## Après le job
+
+Une fois le job terminé, veuillez attendre 20 à 30 secondes avant d'ouvrir le couvercle afin de s'assurer que toutes les fumées soient extraites par la ventilation.
+
+Vous pouvez ensuite récuperer votre ou vos pièces découpées et/ou gravées en toute sécurité.
+
+N'oubliez pas d'éteindre la machine si personne d'autre ne compte l'utiliser après vous.
