@@ -27,7 +27,7 @@ Vérifiez que la machine sélectionnée (encadré en haut à droite) est bien la
 
 **[Image de l'encadré de machine connectée]**
 
-NOTE : si la P3 n'est pas sélectionnée, cliquez sur l'encadré et choisissez la P3.
+>NOTE : si la P3 n'est pas sélectionnée, cliquez sur l'encadré et choisissez la P3.
 
 Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « Import ».
 
@@ -50,7 +50,9 @@ Scannez la zone de travail avec le bouton « Refresh background » pour afficher
 
 **[Image de la zone de travail scannée — entourez en rouge et pointez le bouton correspondant]**
 
-NOTE : si la résolution du scan est mauvaise sur certaines parties, ou si vous souhaitez reprendre une photo d'un endroit précis après le scan général, refermez le couvercle et appuyez sur « Close shot ». Sélectionnez ensuite la zone voulue ; la tête prendra une photo ciblée.
+Refermez ensuite le couvercle de la machine.
+
+>NOTE : si la résolution du scan est mauvaise sur certaines parties, ou si vous souhaitez reprendre une photo d'un endroit précis après le scan général, refermez le couvercle et appuyez sur « Close shot ». Sélectionnez ensuite la zone voulue ; la tête prendra une photo ciblée.
 
 ## Organisation du fichier
 
@@ -58,15 +60,11 @@ Avec la zone scannée visible dans le logiciel, placez votre fichier sur la gril
 
 **[Image d'un fichier bien positionné sur la grille]**
 
-(Option d'optimisation : xTool propose une fonction d'imbrication/optimisation pour réduire les pertes de matériau.)
-
 Une fois le fichier positionné, calibrez la tête d'impression sur le point de travail : cliquez sur « Precise measurement » puis cliquez au centre de votre fichier.
 
 **[Image du logiciel avec le bouton entouré et pointé d'une flèche, avec le curseur sur le milieu du fichier]**
 
 La tête passera deux fois sur ce point : une fois avec la zone abaissée, puis avec la zone relevée.
-
-**[GIF du Precise Measurement en fonctionnement]**
 
 ## Sélection du matériau
 
@@ -78,7 +76,7 @@ Recherchez le matériau par nom ou épaisseur, ou utilisez les catégories à ga
 
 **[Image de la fenêtre de sélection de matériau — encadrer la recherche en vert et les catégories en bleu]**
 
-NOTE : si vous doutez du matériau à sélectionner, demandez au personnel du MakerSpace — ne choisissez pas un matériau au hasard.
+>NOTE : si vous doutez du matériau à sélectionner, demandez au personnel du MakerSpace — ne choisissez pas un matériau au hasard.
 
 (Ex. : pour du bois 5 mm, il peut être nécessaire de choisir un préréglage 6 mm dans xTool selon les presets.)
 
@@ -96,7 +94,7 @@ Vous pouvez visualiser une "preview" de chaque process grâce au bouton dédié.
 
 **[Image du bouton Preview entouré de rouge avec une flèche]**
 
-NOTE : les previews des modes Engrave et Cut sont interactives — cliquez sur différentes parties du preview pour ajuster les presets de puissance et de vitesse.
+>NOTE : les previews des modes Engrave et Cut sont interactives — cliquez sur différentes parties du preview pour ajuster les presets de puissance et de vitesse.
 
 ## Lancer le job
 
@@ -106,7 +104,7 @@ Appuyez ensuite sur le bouton « Preview » pour obtenir une simulation digitale
 
 **[Image d'une preview d'un projet]**
 
-Si tout est correct, cliquez sur "Start" pour envoyer le job à la machine, puis appuyez sur le bouton à droite de la machine pour commencer le travail.
+Si tout est correct, cliquez sur "Process" puis "Start" pour envoyer le job à la machine, puis appuyez sur le bouton à droite de la machine pour commencer le travail.
 
 **[Image du bouton Start entouré de rouge avec une flèche, avec la vue de quand un job est envoyé dessus]**
 

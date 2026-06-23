@@ -45,7 +45,7 @@ J'ai ensuite passé une bonne partie de mon après-midi à essayer de résoudre 
 Pendant que l'erreur d'affichage avait été résolue temporairement, j'en ai profite pour avancer sur la documentation de la xTool P3 en créant un menu déroulant sur la barre latérale gauche. J'y ai mis une page d'information en tout premier, ce qui décris la P3 lorsque qu'on clique dessus. Une fois cette page ouverte, on peut voir une ou plusieurs pages s'afficher sous la page actuelle dans le menu déroulant. J'y ai créé la page "Sécurité" et la page "Fonctionnement". Je compte également créer une page "Projet Type" dans lequel je montrerais comment faire un projet très simple que les étudiants pourrons faire pour mieux connaitre la machine, un peu à l'effigie du tutoriel d'impression 3D dans lequel on apprend à imprimer un petit bateau.
 
 ### Jour 10 (Mardi 23 juin 2026)
-
+Aujoud'hui j'ai réalisé ma découpe pour mon camarade. J'en ai profité pour suivre mon tutoriel afin de vérifier les erreurs ou trouver des choses à reformuler, et j'ai également pris les photos et vidéos nécessaires pour la documentation. Je compte passer l'après-midi à modifier mes photos pour les rendres plus explicites, passer les vidéos en GIF, bien integrer les photos et GIF et espérer que le problème d'affichage ne revienne pas.
 
 ### Jour 11 (Mercredi 24 juin 2026)
 
