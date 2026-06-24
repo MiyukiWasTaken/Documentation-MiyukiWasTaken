@@ -34,7 +34,8 @@ Si la composition d'un matériau est incertaine, ne l'utilisez pas sans vérific
 ## Conditions d'utilisation
 
 - N'utilisez pas la xTool P3 à des températures inférieures à 0°C.
-- Faites fonctionner la ventilation d'extraction pendant toute la durée du travail et vérifiez qu'elle évacue bien l'air vers l'extérieur (fenêtre ouverte si nécessaire).
+- Surveillez la machine en permanence pendant la découpe/gravure.
+- Faites fonctionner la ventilation d'extraction pendant toute la durée du travail et vérifiez qu'elle évacue bien l'air vers l'extérieur.
 
 La xTool P3 produit des fumées, des particules fines et des composés organiques volatils : une ventilation correcte et un filtrage adapté sont indispensables.
 
@@ -42,6 +43,6 @@ La xTool P3 produit des fumées, des particules fines et des composés organique
 
 - Ne découpez ni ne gravez jamais un matériau dont vous ignorez la composition.
 - En cas de doute sur un matériau (par exemple, matériau ayant une origine extérieure au MakerSpace), demandez l'avis d'un responsable avant utilisation.
-- Surveillez la machine en permanence pendant la découpe/gravure.
-
-En respectant ces consignes, vous réduisez fortement les risques d'incendie et d'exposition à des substances dangereuses lors de l'utilisation de la xTool P3.
+- Prenez garde à ne pase déposer un quelconque objet sur la zone surlignée en rouge afin d'éviter de casser le couvercle et donc la machine par mégarde.
+ 
+<img src="docs/images/xTool P3/Bord de la machine.jpg" width="300" style="float:right; margin-right:15px;">
