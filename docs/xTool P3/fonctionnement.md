@@ -5,29 +5,27 @@ nav_order: 2
 parent: xTool P3
 ---
 
-<!-->
-<img src="../images/placeholder.png" alt="placeholder" width="300" style="margin-right:15px;">
-<div style="clear:both;"></div>
--->
-
 # Fonctionnement
 
 ## Allumage
 
 Pour allumer la P3, activez l'interrupteur situé à l'arrière de la machine. La machine peut se déplacer brièvement pendant la phase de démarrage, pas d'inquiétude, tout est normal si vous n'y touchez pas. Profitez de ce calibrage pour préparer votre matériau ou charger votre fichier dans le logiciel xTool.
-<img src="../images/xTool P3/Bouton_Allumage.jpeg" alt="Bouton d'allumage de la xTool P3" width="300" style="margin-right:15px;">
+
+![Bouton d'allumage de la xTool P3](../images/xTool P3/Bouton_Allumage.jpeg){: width="300" style="margin-top:15px;"}
 <div style="clear:both;"></div>
 
 ## Charger un fichier
 
 Une fois la machine allumée, lancez le logiciel xTool.
 
-<img src="../images/xTool P3/xtool-icon.png" alt="Icône du logiciel xTool" width="200" style="margin-right:15px;">
+![Icône du logiciel xTool](../images/xTool P3/xtool-icon.png){: width="300" style="margin-right:15px;"}
+
 <div style="clear:both;"></div>
 
 Dans xTool, cliquez sur « New Project » en haut à droite pour ouvrir un nouveau projet.
 
-**[Image du bouton avec un contour rouge et une flèche]**
+![Bouton New Project](../images/xTool P3/3. Bouton New Project.png){: width="400" style="margin-top:15px;"}
+<div style="clear:both;"></div>
 
 Vérifiez que la machine sélectionnée (encadré en haut à droite) est bien la P3 et qu'elle est marquée comme connectée — pas la F2 Ultra.
 
