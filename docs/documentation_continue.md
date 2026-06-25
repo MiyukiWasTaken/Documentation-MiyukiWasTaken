@@ -48,7 +48,7 @@ Pendant que l'erreur d'affichage avait été résolue temporairement, j'en ai pr
 Aujoud'hui j'ai réalisé ma découpe pour mon camarade. J'en ai profité pour suivre mon tutoriel afin de vérifier les erreurs ou trouver des choses à reformuler, et j'ai également pris les photos et vidéos nécessaires pour la documentation. Je compte passer l'après-midi à modifier mes photos pour les rendres plus explicites, passer les vidéos en GIF, bien integrer les photos et GIF et espérer que le problème d'affichage ne revienne pas.
 
 ### Jour 11 (Mercredi 24 juin 2026)
-
+J'ai modifié et renommer toutes mes images afin de les rendres plus explicites. Je continues de travailler sur la rédation et j'ajuste des détails au fur et à mesure. Test d'insertion d'une image dans securite.md et dans fonctionnement.md, suivie par une erreur d'affichage.
 
 ### Jour 12 (Jeudi 25 juin 2026)
 
