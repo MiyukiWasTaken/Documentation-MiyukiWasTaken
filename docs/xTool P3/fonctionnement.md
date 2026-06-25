@@ -5,11 +5,6 @@ nav_order: 2
 parent: xTool P3
 ---
 
-<!-->
-<img src="../images/placeholder.png" alt="placeholder" width="300" style="margin-right:15px;">
-<div style="clear:both;"></div>
--->
-
 # Fonctionnement
 
 ## Allumage
@@ -47,17 +42,24 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « Import ».
 Avec le fichier chargé dans xTool, positionnez-le correctement pour que la découpe/gravure se fasse à l'emplacement souhaité.
 
 1. Ouvrez le couvercle vitré de la machine.
-2. Vérifiez que les rails/barres de la zone de travail sont correctement positionnés.
+2. Vérifiez que les rails/barres de la zone de travail surlignée en rouge sur la première photo sont correctement positionnés comme sur la deuxième photo.
 
-**[Image de la zone de travail sans soucis]**
+<img src="../images/xTool P3/6.1. Zone de Travail.jpeg" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
+<img src="../images/xTool P3/6.2. Barres de la zone de travail.png" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
-Si tout est OK, posez votre matériau sur la zone de travail surlignée en rouge.
+Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en vert, matériau en bleu)
 
-**[Image de toute la zone de travail surlignée en rouge]**
+<img src="../images/xTool P3/7. Zone de travail avec matériau.jpeg" alt="Matériau sur la zone de travail" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 Scannez la zone de travail avec le bouton « Refresh background » pour afficher la zone et l'emplacement du matériau.
 
-**[Image de la zone de travail scannée — entourez en rouge et pointez le bouton correspondant]**
+<img src="../images/xTool P3/8.1. Bouton Refresh Background.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
+<img src="../images/xTool P3/8.2. Zone de travail scanée.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 Refermez ensuite le couvercle de la machine.
 
