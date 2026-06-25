@@ -9,9 +9,9 @@ parent: xTool P3
 
 ## Allumage
 
-Pour allumer la P3, activez l'interrupteur situé à l'arrière de la machine. La machine peut se déplacer brièvement pendant la phase de démarrage — pas d'inquiétude, tout est normal si vous n'y touchez pas. Profitez de ce calibrage pour préparer votre matériau ou charger votre fichier dans le logiciel xTool.
+Pour allumer la P3, activez l'interrupteur situé à l'arrière de la machine. La machine peut se déplacer brièvement pendant la phase de démarrage, pas d'inquiétude, tout est normal si vous n'y touchez pas. Profitez de ce calibrage pour préparer votre matériau ou charger votre fichier dans le logiciel xTool.
 
-<img src="images/xTool P3/1. Bouton allumage de la P3 dans le coin droite.jpeg" width="300" style="float:right; margin-right:15px;">
+<img src="docs/images/xTool P3/Bouton_Allumage.jpeg" width="300" style="float:right; margin-right:15px;">
 
 ## Charger un fichier
 
