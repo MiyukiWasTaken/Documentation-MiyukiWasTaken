@@ -45,4 +45,4 @@ La xTool P3 produit des fumées, des particules fines et des composés organique
 - En cas de doute sur un matériau (par exemple, matériau ayant une origine extérieure au MakerSpace), demandez l'avis d'un responsable avant utilisation.
 - Prenez garde à ne pase déposer un quelconque objet sur la zone surlignée en rouge afin d'éviter de casser le couvercle et donc la machine par mégarde.
  
-<img src="images/xTool P3/Bord de la machine.jpg" width="300" style="float:right; margin-right:15px;">
+<img src="../images/xTool P3/Bord de la machine.jpg" width="300" style="float:right; margin-right:15px;">
