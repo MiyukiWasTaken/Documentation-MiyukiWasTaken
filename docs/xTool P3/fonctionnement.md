@@ -27,19 +27,20 @@ Une fois la machine allumée, lancez le logiciel xTool.
 
 Dans xTool, cliquez sur « New Project » en haut à droite pour ouvrir un nouveau projet.
 
-<img src="../images/xTool P3/3. Bouton New Project.png" alt="Bouton New Project" width="400" style="margin-top:15px;">
+<img src="../images/xTool P3/3. Bouton New Project.png" alt="Bouton New Project" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 Vérifiez que la machine sélectionnée (encadré en haut à droite) est bien la P3 et qu'elle est marquée comme connectée — pas la F2 Ultra.
 
-<img src="../images/xTool P3/4. Machine Connectée.png" alt="Machine Connectée" width="400" style="margin-top:15px;">
+<img src="../images/xTool P3/4. Machine Connectee.png" alt="Machine Connectée" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 >NOTE : si la P3 n'est pas sélectionnée, cliquez sur l'encadré et choisissez la P3.
 
 Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « Import ».
 
-**[Image du bouton avec un contour rouge et une flèche]**
+<img src="../images/xTool P3/5. Bouton Import.png" alt="Bouton Import" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 ## Affichage de la zone de travail
 
