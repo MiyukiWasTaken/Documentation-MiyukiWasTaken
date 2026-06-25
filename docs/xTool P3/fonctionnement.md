@@ -22,7 +22,7 @@ Pour allumer la P3, activez l'interrupteur situé à l'arrière de la machine. L
 
 Une fois la machine allumée, lancez le logiciel xTool.
 
-<img src="../images/xTool P3/xtool-icon.png" alt="Icône du logiciel xTool" width="300" style="margin-right:15px;">
+<img src="../images/xTool P3/xtool-icon.png" alt="Icône du logiciel xTool" width="200" style="margin-right:15px;">
 <div style="clear:both;"></div>
 
 Dans xTool, cliquez sur « New Project » en haut à droite pour ouvrir un nouveau projet.
