@@ -61,7 +61,7 @@ Scannez la zone de travail avec le bouton « Refresh background » pour afficher
 <img src="../images/xTool P3/8.2. Zone de travail scanee.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Refermez ensuite le couvercle de la machine.
+**Refermez ensuite le couvercle de la machine.**
 
 >NOTE : si la résolution du scan est mauvaise sur certaines parties, ou si vous souhaitez reprendre une photo d'un endroit précis après le scan général, refermez le couvercle et appuyez sur « Close shot ». Sélectionnez ensuite la zone voulue ; la tête prendra une photo ciblée.
 
@@ -69,11 +69,13 @@ Refermez ensuite le couvercle de la machine.
 
 Avec la zone scannée visible dans le logiciel, placez votre fichier sur la grille de positionnement.
 
-**[Image d'un fichier bien positionné sur la grille]**
+<img src="../images/xTool P3/9. Fichier bien organisé.png" alt="Fichier bien placé" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
-Une fois le fichier positionné, calibrez la tête d'impression sur le point de travail : cliquez sur « Precise measurement » puis cliquez au centre de votre fichier.
+Une fois le fichier positionné et le couvercle refermé, calibrez la tête d'impression sur le point de travail : cliquez sur « Precise measurement » puis cliquez au centre de votre fichier.
 
-**[Image du logiciel avec le bouton entouré et pointé d'une flèche, avec le curseur sur le milieu du fichier]**
+<img src="../images/xTool P3/10. Bouton Precise Measure et curseur.png" alt="Precise Measure et curseur" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 La tête passera deux fois sur ce point : une fois avec la zone abaissée, puis avec la zone relevée.
 
@@ -81,7 +83,8 @@ La tête passera deux fois sur ce point : une fois avec la zone abaissée, puis 
 
 Cliquez sur « Material » pour ouvrir la fenêtre de sélection (par défaut « Unknown Material »).
 
-**[Image de la zone Material entourée et pointée par une flèche en rouge]**
+<img src="../images/xTool P3/11. Bouton Material.png" alt="Bouton Material" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 Recherchez le matériau par nom ou épaisseur, ou utilisez les catégories à gauche pour filtrer les résultats.
 
