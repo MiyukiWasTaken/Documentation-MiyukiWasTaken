@@ -42,8 +42,8 @@ La xTool P3 produit des fumées, des particules fines et des composés organique
 
 - Ne découpez ni ne gravez jamais un matériau dont vous ignorez la composition.
 - En cas de doute sur un matériau (par exemple, matériau ayant une origine extérieure au MakerSpace), demandez l'avis d'un responsable avant utilisation.
-- Prenez garde à ne pase déposer un quelconque objet sur les zones surlignée en <span style="color:red">rouge</span> afin d'éviter de casser le couvercle et donc la machine par mégarde.
-- Evitez de poser quelconques objets sur les zones <span style="color:orange">orange</span> par sécurité, même si au premiers abords rien ne devrait arriver si c'était le cas.
+- Prenez garde à ne pase déposer un quelconque objet sur les zones surlignée en rouge afin d'éviter de casser le couvercle et donc la machine par mégarde.
+- Evitez de poser quelconques objets sur les zones orange par sécurité, même si au premiers abords rien ne devrait arriver si c'était le cas.
 
 <img src="../images/xTool P3/bord-machine.jpg" width="300" style="margin-top:15px;">
 <div style="clear:both;"></div>

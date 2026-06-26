@@ -41,14 +41,15 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 ## Affichage de la zone de travail
 
 1. Ouvrez le couvercle vitré de la machine.
-2. Vérifiez que les rails/barres de la zone de travail surlignée en <span style="color:red">rouge</span> sur la première photo sont **correctement positionnés** comme sur la deuxième photo.
+2. Vérifiez que les rails/barres de la zone de travail surlignée en rouge sur la première photo sont **correctement positionnés** comme sur la deuxième photo.
 
 <img src="../images/xTool P3/zone-de-travail.jpeg" alt="Zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
+
 <img src="../images/xTool P3/barres-zone-de-travail.png" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en <span style="color:green">vert</span>, matériau en <span style="color:blue">bleu</span>)
+Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en vert, matériau en bleu)
 
 <img src="../images/xTool P3/zone-de-travail-avec-materiau.jpeg" alt="Matériau sur la zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
@@ -105,7 +106,7 @@ Les "process" représentent les différentes étapes d'un job : actions liées a
 
 Vous pouvez visualiser une "preview" de chaque process grâce au bouton dédié.
 
-**[GIF du bouton Preview entouré de <span style="color:red">rouge</span> avec une flèche]**
+**[GIF du bouton Preview entouré de rouge avec une flèche]**
 
 >NOTE : les previews des modes Engrave et Cut sont interactives — cliquez sur différentes parties du preview pour ajuster les presets de puissance et de vitesse.
 
