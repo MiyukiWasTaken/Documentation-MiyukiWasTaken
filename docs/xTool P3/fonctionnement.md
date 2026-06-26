@@ -9,47 +9,46 @@ parent: xTool P3
 
 ## Allumage
 
-Pour allumer la P3, activez l'interrupteur situé à l'arrière de la machine. La machine peut se déplacer brièvement pendant la phase de démarrage, pas d'inquiétude, tout est normal si vous n'y touchez pas. Profitez de ce calibrage pour préparer votre matériau ou charger votre fichier dans le logiciel xTool.
+Pour allumer la P3, activez l'interrupteur situé à l'arrière de la machine. La machine peut se déplacer brièvement pendant la phase de démarrage pour se calibrer, pas d'inquiétude. Profitez de ce calibrage pour préparer votre matériau ou charger votre fichier dans le logiciel xTool.
+
 <img src="../images/xTool P3/bouton-allumage.jpeg" alt="Bouton d'allumage de la xTool P3" width="300" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 ## Charger un fichier
 
-Une fois la machine allumée, lancez le logiciel xTool.
+Une fois la machine allumée, lancez le logiciel **xTool**.
 
 <img src="../images/xTool P3/xtool-icon.png" alt="Icône du logiciel xTool" width="100">
 <div style="clear:both;"></div>
 
-Dans xTool, cliquez sur « New Project » en haut à droite pour ouvrir un nouveau projet.
+Dans xTool, cliquez sur « `New Project` » en haut à droite pour ouvrir un nouveau projet.
 
 <img src="../images/xTool P3/bouton-new-project.png" alt="Bouton New Project" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Vérifiez que la machine sélectionnée (encadré en haut à droite) est bien la P3 et qu'elle est marquée comme connectée — pas la F2 Ultra.
+Vérifiez que la machine sélectionnée est bien la xTool P3 et qu'elle est marquée comme connectée, et non la xTool F2 Ultra.
 
 <img src="../images/xTool P3/machine-connectee.png" alt="Machine Connectée" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 >NOTE : si la P3 n'est pas sélectionnée, cliquez sur l'encadré et choisissez la P3.
 
-Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « Import ».
+Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 
 <img src="../images/xTool P3/bouton-import.png" alt="Bouton Import" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 ## Affichage de la zone de travail
 
-Avec le fichier chargé dans xTool, positionnez-le correctement pour que la découpe/gravure se fasse à l'emplacement souhaité.
-
 1. Ouvrez le couvercle vitré de la machine.
-2. Vérifiez que les rails/barres de la zone de travail surlignée en rouge sur la première photo sont correctement positionnés comme sur la deuxième photo.
+2. Vérifiez que les rails/barres de la zone de travail surlignée en rouge sur la première photo sont **correctement positionnés** comme sur la deuxième photo.
 
-<img src="../images/xTool P3/zone-de-travail.jpeg" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
+<img src="../images/xTool P3/zone-de-travail.jpeg" alt="Zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 <img src="../images/xTool P3/barres-zone-de-travail.png" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en vert, matériau en bleu)
+Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en <span style="color:green">vert</span>, matériau en <span style="color:blue">bleu</span>)
 
 <img src="../images/xTool P3/zone-de-travail-avec-materiau.jpeg" alt="Matériau sur la zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
@@ -67,7 +66,7 @@ Scannez la zone de travail avec le bouton « Refresh background » pour afficher
 
 ## Organisation du fichier
 
-Avec la zone scannée visible dans le logiciel, placez votre fichier sur la grille de positionnement.
+Avec la zone scannée visible dans le logiciel, placez votre fichier sur la grille de positionnement qui désigne le matériau.
 
 <img src="../images/xTool P3/fichier-bien-organise.png" alt="Fichier bien placé" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
@@ -140,7 +139,7 @@ Il est obligatoire de vérifier le bon déroulement du job pour éviter un dépr
 
 ## Après le job
 
-Une fois le job terminé, veuillez attendre 20 à 30 secondes avant d'ouvrir le couvercle afin de s'assurer que toutes les fumées soient extraites par la ventilation.
+Une fois le job terminé, veuillez attendre **20 à 30 secondes** avant d'ouvrir le couvercle afin de s'assurer que *toutes les fumées soient extraites* par la ventilation.
 
 Vous pouvez ensuite récuperer votre ou vos pièces découpées et/ou gravées en toute sécurité.
 
