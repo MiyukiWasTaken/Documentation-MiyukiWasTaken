@@ -12,12 +12,12 @@ Voici la documentation continue de mon travail au sein du MakerSpace, dans leque
 Recherches sur comment la xTool P3 fonctionne et quels gestes de sécurité je dois adopter. Assistance à mon camarade pour trier les objets utiles et inutiles de la servante dans le stockage du MakerSpace.
 
 ### Jour 2 (Jeudi 11 juin 2026)
-<img src="images/xTool P3/Test.jpg" width="300" style="float:right; margin-right:15px;">
+<img src="images/xTool P3/test.jpg" width="300" style="float:right; margin-right:15px;">
 Création d'un fichier test dans "test.xs" le logiciel xTool de mon ordinateur portable pour tester la xTool P3. Export de ce fichier en .svg afin de pouvoir l'importer dans le logiciel xTool de l'ordinateur connecté à la xTool P3. Utilisation de la xTool P3 et réalisation de la découpe et gravure avec la machine, le tout sur du bois 5mm.
 <div style="clear:both;"></div>
 
 ### Jour 3 (Vendredi 12 juin 2026)
-<img src="images/xTool P3/Engrave Test xTool P3.jpg" width="300" style="float:right; margin-right:15px;">
+<img src="images/xTool P3/engrave-test-xtool-p3.jpg" width="300" style="float:right; margin-right:15px;">
 Recherche d'un fichier permettant de montrer les différents résultats de gravure en fonction de la puissance et de la vitesse de gravure de la xTool P3. Certaines combinaisons étaient plutôt inquiétantes, au point où un collègue a été surpris en voyant le résultat de la gravure.
 <div style="clear:both;"></div>
 
@@ -51,7 +51,7 @@ Aujoud'hui j'ai réalisé ma découpe pour mon camarade. J'en ai profité pour s
 J'ai modifié et renommer toutes mes images afin de les rendres plus explicites grâce à Paint pour les modifications simple comme un rectangle en rouge pour encadrer un bouton, et GIMP pour les modifications plus complexes ou précises comme pour la colorisation non-opaque d'une zone avec des reliefs, notamment visible sur la photo dans l'onglet <a href="https://miyukiwastaken.github.io/Documentation-MiyukiWasTaken/xTool%20P3/securite.html" target="_blank">sécurité</a>. Je continues de travailler sur la rédation et j'ajuste des détails au fur et à mesure. Test d'insertion d'une image dans securite.md et dans fonctionnement.md, suivie par une erreur d'affichage.
 
 ### Jour 12 (Jeudi 25 juin 2026)
-Je me mets sérieusement à inserer les images dans le site, je fais quelques changements de noms de fichiers notamment pour enlever les `'` et éviter les accents comme les `é`. J'essaie également de trouver les symptômes de l'erreur d'affichage 404, j'ai l'impression que commit des changements trop minimes ***favorise*** cette erreur d'affichage mais rien n'est sûr... Commit des changements sur plusieurs fichiers ou même plusieurs types de fichiers comme un commit avec un `.md`, un deuxième `.md` ainsi qu'une image en `.png` a réduit les apparissions de cette erreur, mais encore une fois rien n'est sûr. Il semble aussi falloir simplement attendre après le commit et la synchronisation (même après que GitHub affiche les commits comme validés et fonctionnels). J'ai également modifié le `Jour 11` afin d'y mettre un lien hyper-texte permettant d'ouvrir la page `Sécurité` dans une autre onglet.
+Je me mets sérieusement à inserer les images dans le site, je fais quelques changements de noms de fichiers notamment pour enlever les `'` et éviter les accents comme les `é`. J'essaie également de trouver les symptômes de l'erreur d'affichage 404, j'ai l'impression que commit des changements trop minimes ***favorise*** cette erreur d'affichage mais rien n'est sûr... Commit des changements sur plusieurs fichiers ou même plusieurs types de fichiers comme un commit avec un `.md`, un deuxième `.md` ainsi qu'une image en `.png` a réduit les apparissions de cette erreur, mais encore une fois rien n'est sûr. Il semble aussi falloir simplement attendre après le commit et la synchronisation (même après que GitHub affiche les commits comme validés et fonctionnels). J'ai également modifié le **Jour 11** afin d'y mettre un lien hyper-texte permettant d'ouvrir la page **Sécurité** dans une autre onglet.
 
 ### Jour 13 (Vendredi 26 juin 2026)
 

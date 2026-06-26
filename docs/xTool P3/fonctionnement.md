@@ -48,7 +48,7 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 <img src="../images/xTool P3/barres-zone-de-travail.png" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en <span style="color:green">vert</span>, matériau en <span style="color:blue">bleu</span>)
+Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en vert, matériau enbleu)
 
 <img src="../images/xTool P3/zone-de-travail-avec-materiau.jpeg" alt="Matériau sur la zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
