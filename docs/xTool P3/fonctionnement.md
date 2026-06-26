@@ -144,7 +144,7 @@ Une fois le job terminé, veuillez attendre 20 à 30 secondes avant d'ouvrir le 
 
 Vous pouvez ensuite récuperer votre ou vos pièces découpées et/ou gravées en toute sécurité.
 
-<img src="../images/xTool P3/job-termine.jpeg" alt="Bouton Material" width="600" style="margin-top:15px;">
+<img src="../images/xTool P3/job-termine.jpeg" alt="Job terminé" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 N'oubliez pas d'éteindre la machine si personne d'autre ne compte l'utiliser après vous.
