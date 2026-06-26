@@ -54,7 +54,7 @@ J'ai modifié et renommer toutes mes images afin de les rendres plus explicites 
 Je me mets sérieusement à inserer les images dans le site, je fais quelques changements de noms de fichiers notamment pour enlever les `'` et éviter les accents comme les `é`. J'essaie également de trouver les symptômes de l'erreur d'affichage 404, j'ai l'impression que commit des changements trop minimes ***favorise*** cette erreur d'affichage mais rien n'est sûr... Commit des changements sur plusieurs fichiers ou même plusieurs types de fichiers comme un commit avec un `.md`, un deuxième `.md` ainsi qu'une image en `.png` a réduit les apparissions de cette erreur, mais encore une fois rien n'est sûr. Il semble aussi falloir simplement attendre après le commit et la synchronisation (même après que GitHub affiche les commits comme validés et fonctionnels). J'ai également modifié le **Jour 11** afin d'y mettre un lien hyper-texte permettant d'ouvrir la page **Sécurité** dans une autre onglet.
 
 ### Jour 13 (Vendredi 26 juin 2026)
-Je continue à inserer mes photos et GIF dans la documentation, je fais également quelques modifications de texte pour rendre le tout plus clair et compréhensible. J'ai toujours ce problème d'affichage 404 qui reviens de temps et temps et qui est toujours d'actualité au moment où j'écris ces mots.
+Je continue à inserer mes photos et GIF dans la documentation, je fais également quelques modifications de texte pour rendre le tout plus clair et compréhensible. J'ai toujours ce problème d'affichage 404 qui reviens de temps et temps et qui est toujours d'actualité au moment où j'écris ces mots. J'essaie également de proposer du texte coloré pour mieux lire les images.
 
 ## Semaine 4
 ### Jour 14 (Lundi 29 juin 2026)
