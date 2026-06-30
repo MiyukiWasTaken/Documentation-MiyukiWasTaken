@@ -61,9 +61,9 @@ Je continue à inserer mes photos et GIF dans la documentation, je fais égaleme
 J'ai continué de rédiger ma documetation.
 
 ### Jour 15 (Mardi 30 juin 2026)
-<img src="images/labo-3-vide.JPG" width="300" style="float:right; margin-right:15px;">
 J'ai aidé à vider un peu le labo 3 en enlevant plusieurs machines comme des alimentaions, des oscilloscopes etc.
 J'ai également débranché tout les périphériques connectés aux ordinateurs et aux écrans, et j'ai également débranché tout les cables branchés sur les mulitprises. Le gros des machines se trouvent dans la pièce "Cellule" le temps de faire les travaux dans le labo 3, des microprocesseurs STM-32 pour les TP se trouvent sur une paillasse dans la pièce car je ne savais pas s'il y avait un endroit pour les ranger, les chaises de la salle ont été mise dans le couloir par mon camarade et un élève de 4ème venu pour un stage d'observation sur ce jour uniquement.
+<img src="images/labo-3-vide.JPG" width="300" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
 ### Jour 16 (Mercredi 1 juillet 2026)
