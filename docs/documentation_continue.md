@@ -63,11 +63,12 @@ J'ai continué de rédiger ma documetation.
 ### Jour 15 (Mardi 30 juin 2026)
 J'ai aidé à vider un peu le labo 3 en enlevant plusieurs machines comme des alimentaions, des oscilloscopes etc.
 J'ai également débranché tout les périphériques connectés aux ordinateurs et aux écrans, et j'ai également débranché tout les cables branchés sur les mulitprises. Le gros des machines se trouvent dans la pièce "Cellule" le temps de faire les travaux dans le labo 3, des microprocesseurs STM-32 pour les TP se trouvent sur une paillasse dans la pièce car je ne savais pas s'il y avait un endroit pour les ranger, les chaises de la salle ont été mise dans le couloir par mon camarade et un élève de 4ème venu pour un stage d'observation sur ce jour uniquement.
-<img src="images/labo-3-vide.JPG" width="300" style="margin-top:15px;">
-<div style="clear:both;"></div>
+<div style="margin-top:15px; text-align:center;">
+  <img src="images/labo-3-vide.JPG" width="450" style="display:block; margin:0 auto; max-width:100%;">
+</div>
 
 ### Jour 16 (Mercredi 1 juillet 2026)
-
+Aujourd'hui je vais aller explorer les fonctions plus avancées de la machine pour permettres aux plus curieux de personnaliser encore plus leurs projets. J'essaie de faire un projet perso mais j'ai le malheur de ne rien comprendre a ce que je fais et ducoup c'est un fiasco.
 
 ### Jour 17 (Jeudi 2 juillet 2026)
 
