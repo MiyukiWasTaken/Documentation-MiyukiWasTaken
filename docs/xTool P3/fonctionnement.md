@@ -31,7 +31,7 @@ Vérifiez que la machine sélectionnée est bien la xTool P3 et qu'elle est marq
 <img src="../images/xTool P3/machine-connectee.png" alt="Machine Connectée" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
->NOTE : si la P3 n'est pas sélectionnée, cliquez sur l'encadré et choisissez la P3.
+>NOTE : si la P3 n'est pas sélectionnée, cliquez sur les flèches <img src="../images/xTool P3/icone-changement-machine.png" alt="icone" width="18"> et choisissez la P3.
 
 Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 
@@ -41,7 +41,7 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 ## Affichage de la zone de travail
 
 1. Ouvrez le couvercle vitré de la machine.
-2. Vérifiez que les rails/barres de la zone de travail surlignée en rouge sur la première photo sont **correctement positionnés** comme sur la deuxième photo.
+2. Vérifiez que les rails/barres de la zone de travail surlignée en vert sur la première photo sont **correctement positionnés** comme sur la deuxième photo.
 
 <img src="../images/xTool P3/zone-de-travail.jpeg" alt="Zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
@@ -49,7 +49,9 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 <img src="../images/xTool P3/barres-zone-de-travail.png" alt="Zone de travail sans soucis" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Si tout est OK, posez votre matériau sur la zone de travail. (Zone de travail en vert, matériau en bleu)
+Si tout est OK, posez votre matériau sur la zone de travail (Zone de travail en vert, matériau en bleu). 
+
+>Il est toujours préféré de poser le matériau vers le milieu de la zone de travail plutôt qu'aux bords.
 
 <img src="../images/xTool P3/zone-de-travail-avec-materiau.jpeg" alt="Matériau sur la zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
@@ -58,10 +60,13 @@ Scannez la zone de travail avec le bouton « Refresh background » pour afficher
 
 <img src="../images/xTool P3/bouton-refresh-background.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
-<img src="../images/xTool P3/zone-de-travail-scanee.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
-<div style="clear:both;"></div>
+
+Vous verez ensuite sur le logiciel xTool la zone de travail tel qu'elle l'est réellement, avec le matériau posé dessus. Le matériau se verra également recouvert d'une grille qui nous permet de compendre qu'il a bien été reconnu comme matériau. 
 
 **Refermez ensuite le couvercle de la machine.**
+
+<img src="../images/xTool P3/zone-de-travail-scanee.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 >NOTE : si la résolution du scan est mauvaise sur certaines parties, ou si vous souhaitez reprendre une photo d'un endroit précis après le scan général, refermez le couvercle et appuyez sur « Close shot ». Sélectionnez ensuite la zone voulue ; la tête prendra une photo ciblée.
 
@@ -72,7 +77,7 @@ Avec la zone scannée visible dans le logiciel, placez votre fichier sur la gril
 <img src="../images/xTool P3/fichier-bien-organise.png" alt="Fichier bien placé" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-Une fois le fichier positionné et le couvercle refermé, calibrez la tête d'impression sur le point de travail : cliquez sur « Precise measurement » puis cliquez au centre de votre fichier.
+Une fois le fichier positionné et le couvercle refermé, calibrez la tête d'impression sur le point de travail : cliquez sur « Precise Measure » puis cliquez au centre de votre fichier.
 
 <img src="../images/xTool P3/bouton-precise-measure-curseur.png" alt="Precise Measure et curseur" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
