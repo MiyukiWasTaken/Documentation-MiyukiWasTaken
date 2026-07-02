@@ -71,7 +71,8 @@ J'ai également débranché tout les périphériques connectés aux ordinateurs 
 Aujourd'hui je vais aller explorer les fonctions plus avancées de la machine pour permettres aux plus curieux de personnaliser encore plus leurs projets. 
 
 ### Jour 17 (Jeudi 2 juillet 2026)
-
+Aujourd'hui j'ai découpé plusieurs versions de mon projet perso, j'ai une 5eme version prete a etre découpée demain.
+J'ai reflechi à comment enrichir la documentation et je pense faire un onglet "Logiciel xTool" mais je ne sais pas si je le mets en onglet dans la rubrique xTool P3 ou si je le met au meme niveau que documentaion continue ou acceuil.
 
 ### Jour 18 (Vendredi 3 juillet 2026)
 
