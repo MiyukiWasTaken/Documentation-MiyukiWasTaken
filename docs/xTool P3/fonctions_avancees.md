@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Fonctions avancées
+title: Le logiciel xTool
 nav_order: 3
 parent: xTool P3
 ---
 
-# Fonctions avancées
+# Le logiciel xTool
 
 ## 

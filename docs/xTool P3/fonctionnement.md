@@ -106,7 +106,8 @@ Les "process" représentent les différentes étapes d'un job : actions liées a
 
 Vous pouvez visualiser une "preview" de chaque process grâce au bouton dédié.
 
-**[GIF du bouton Preview entouré de rouge avec une flèche]**
+<img src="../images/xTool P3/xtool-previews.gif" alt="Aperçu de projet dans le logiciel xTool" width="600" style="margin-top:15px;">
+<div style="clear:both;"></div>
 
 >NOTE : les previews des modes Engrave et Cut sont interactives — cliquez sur différentes parties du preview pour ajuster les presets de puissance et de vitesse.
 

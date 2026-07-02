@@ -68,7 +68,7 @@ J'ai également débranché tout les périphériques connectés aux ordinateurs 
 </div>
 
 ### Jour 16 (Mercredi 1 juillet 2026)
-Aujourd'hui je vais aller explorer les fonctions plus avancées de la machine pour permettres aux plus curieux de personnaliser encore plus leurs projets. J'essaie de faire un projet perso mais j'ai le malheur de ne rien comprendre a ce que je fais et ducoup c'est un fiasco.
+Aujourd'hui je vais aller explorer les fonctions plus avancées de la machine pour permettres aux plus curieux de personnaliser encore plus leurs projets. 
 
 ### Jour 17 (Jeudi 2 juillet 2026)
 
