@@ -16,7 +16,7 @@ Pour mettre en marche la P3, activez l'interrupteur situé à l'arrière de la m
 
 ## Charger un fichier
 
-Une fois la machine allumée, lancez le logiciel **xTool**.
+Pendant que la machine s'allume, lancez le logiciel **xTool**.
 
 <img src="../images/xTool P3/xtool-icon.png" alt="Icône du logiciel xTool" width="100">
 <div style="clear:both;"></div>
@@ -40,6 +40,8 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 
 ## Affichage de la zone de travail
 
+_**Attendez que la P3 arrête de ventiller avant de faire l'étape suivante.**_
+
 1. Ouvrez le couvercle vitré de la machine.
 2. Vérifiez que les rails/barres de la zone de travail surlignée en vert sur la première photo sont **correctement positionnés** comme sur la deuxième photo.
 
@@ -51,7 +53,7 @@ Importez ensuite un fichier `.svg` ou `.dxf` via le bouton « `Import` ».
 
 Si tout est OK, posez votre matériau sur la zone de travail (Zone de travail en vert, matériau en bleu). 
 
->Il est toujours préféré de poser le matériau vers le milieu de la zone de travail plutôt qu'aux bords.
+**_Il est toujours préféré de poser le matériau vers le milieu de la zone de travail plutôt qu'aux bords._**
 
 <img src="../images/xTool P3/zone-de-travail-avec-materiau.jpeg" alt="Matériau sur la zone de travail" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
@@ -82,7 +84,7 @@ Une fois le fichier positionné et le couvercle refermé, calibrez la tête d'im
 <img src="../images/xTool P3/bouton-precise-measure-curseur.png" alt="Precise Measure et curseur" width="600" style="margin-top:15px;">
 <div style="clear:both;"></div>
 
-La tête passera deux fois sur ce point : une fois avec la zone abaissée, puis avec la zone relevée.
+Le laser situé dans la tête d'impréssion passera deux fois sur ce point : une fois avec la zone abaissée, puis avec la zone relevée.
 
 ## Sélection du matériau
 
