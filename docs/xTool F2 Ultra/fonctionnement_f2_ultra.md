@@ -8,7 +8,7 @@ parent: xTool F2 Ultra
 # Fonctionnement
 
 ## Mise en marche
-
+<!--
 <img src="../images/xTool F2 Ultra/" alt="" width="300" style="margin-top:15px;">
 
 ## Charger un fichier
@@ -68,3 +68,5 @@ parent: xTool F2 Ultra
 ## Après le job
 
 <img src="../images/xTool F2 Ultra/" alt="" width="300" style="margin-top:15px;">
+-->
+e
