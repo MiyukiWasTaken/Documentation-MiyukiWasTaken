@@ -12,14 +12,15 @@ Voici la documentation continue de mon travail au sein du MakerSpace, dans leque
 Recherches sur comment la xTool P3 fonctionne et quels gestes de sécurité je dois adopter. Assistance à mon camarade pour trier les objets utiles et inutiles de la servante dans le stockage du MakerSpace.
 
 ### Jour 2 (Jeudi 11 juin 2026)
-<img src="images/xTool P3/test.jpg" width="300" style="float:right; margin-right:15px;">
+<img src="images/xTool P3/test.jpg" width="300" style="float:right; margin-right:15px; margin-left:15px;">
 Création d'un fichier test dans "test.xs" le logiciel xTool de mon ordinateur portable pour tester la xTool P3. Export de ce fichier en .svg afin de pouvoir l'importer dans le logiciel xTool de l'ordinateur connecté à la xTool P3. Utilisation de la xTool P3 et réalisation de la découpe et gravure avec la machine, le tout sur du bois 5mm.
 <div style="clear:both;"></div>
 
 ### Jour 3 (Vendredi 12 juin 2026)
-<img src="images/xTool P3/engrave-test-xtool-p3.jpg" width="300" style="float:right; margin-right:15px;">
+<img src="images/xTool P3/engrave-test-xtool-p3.jpg" width="300" style="float:right; margin-right:15px; margin-left:15px;">
 Recherche d'un fichier permettant de montrer les différents résultats de gravure en fonction de la puissance et de la vitesse de gravure de la xTool P3. Certaines combinaisons étaient plutôt inquiétantes, au point où un collègue a été surpris en voyant le résultat de la gravure.
 <div style="clear:both;"></div>
+
 
 ## Semaine 2
 ### Jour 4 (Lundi 15 juin 2026)
@@ -61,10 +62,10 @@ Je continue à inserer mes photos et GIF dans la documentation, je fais égaleme
 J'ai continué de rédiger ma documetation.
 
 ### Jour 15 (Mardi 30 juin 2026)
-J'ai aidé à vider un peu le labo 3 en enlevant plusieurs machines comme des alimentaions, des oscilloscopes etc.
+J'ai aidé à vider le labo 3 en enlevant plusieurs machines comme des alimentaions, des oscilloscopes etc.
 J'ai également débranché tout les périphériques connectés aux ordinateurs et aux écrans, et j'ai également débranché tout les cables branchés sur les mulitprises. Le gros des machines se trouvent dans la pièce "Cellule" le temps de faire les travaux dans le labo 3, des microprocesseurs STM-32 pour les TP se trouvent sur une paillasse dans la pièce car je ne savais pas s'il y avait un endroit pour les ranger, les chaises de la salle ont été mise dans le couloir par mon camarade et un élève de 4ème venu pour un stage d'observation sur ce jour uniquement.
 <div style="margin-top:15px; text-align:center;">
-  <img src="images/labo-3-vide.JPG" width="450" style="display:block; margin:0 auto; max-width:100%;">
+  <img src="images/Labo 3/labo-3-vide-30-juin.JPG" width="450" style="display:block; margin:0 auto; max-width:100%;">
 </div>
 
 ### Jour 16 (Mercredi 1 juillet 2026)
@@ -75,7 +76,7 @@ Aujourd'hui j'ai découpé plusieurs versions de mon projet perso, j'ai une 5eme
 J'ai reflechi à comment enrichir la documentation et je pense faire un onglet "Logiciel xTool" mais je ne sais pas si je le mets en onglet dans la rubrique xTool P3 ou si je le met au meme niveau que documentaion continue ou acceuil.
 
 ### Jour 18 (Vendredi 3 juillet 2026)
-
+Aujourd'hui je me suis lancé dans un remaniement de mon site, j'ai créé les pages pour la F2 Ultra afin d'optimiser mon temps, j'ai également créé un dossier de pages "Autres missions" qui va regrouper les missions annexes que j'ai pu réaliser durant ce stage mais qui n'étaient pas liées à la documentation des machines. Parmis ces missions, j'ai pour l'instant pu mettre celle du rangement des servantes ainsi que le rangement et le vidage du Labo 3, avec leurs photos. Si le site sur GitHub bug, c'est potentiellement à cause du texte coloré sur la page du rangement.
 
 
 ## Semaine 5
