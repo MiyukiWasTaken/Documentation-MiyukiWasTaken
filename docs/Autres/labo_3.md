@@ -51,14 +51,16 @@ Pendant que mon camarade et un stagiaire de 4ème sortaient les chaises de la sa
 Voici le rangement des chaises dans le couloir par mes camarade :
 <img src="../images/Labo 3/chaises-dans-couloir.png" width="600" style="margin-top:15px;">
 
-## Labo 3 vidé au jour du 30 juin 2026
+## Labo 3 vidé au fil des jours
 
+### 30 juin 2026
 Voici le Labo 3 vidé après notre travail, il restait encore des câbles et du matériels à enlever mais une bonne partie du travail était faite.
 
 <img src="../images/Labo 3/labo-3-vide-30-juin.JPG" width="600" style="margin-top:15px;">
 
-## Labo 3 vidé au jour du 3 juillet 2026
-
+### 3 juillet 2026
 Quelques jours plus tard, les cadenas étaient retirés et liens métaliques coupés, donc les derniers câbles et matériels ont pu être retirés du Labo 3. De plus, une des 12 paillasses a été démontée.
 
 <img src="../images/Labo 3/labo-3-vide-3-juillet.JPG" width="600" style="margin-top:15px;">
+
+### ?

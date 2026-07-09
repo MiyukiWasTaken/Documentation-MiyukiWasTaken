@@ -82,12 +82,46 @@ Aujourd'hui je me suis lancé dans un remaniement de mon site, j'ai créé les p
 ## Semaine 5
 ### Jour 19 (Lundi 6 juillet 2026)
 
+Avec mon camarade, nous avons réorganisé les deux étagères des imprimantes 3D afin de faire de la place pour deux nouvelles imprimantes qui viennent d'arriver.
+
+<img src="images\Organisation Imprimantes 3D\etage-droite-apres-changement.jpg" width="300" style="float:right; margin-right:15px; margin-left:15px;">
+Nous avons commencé par débrancher toutes les imprimantes de l'étagère de droite. Avant de les retirer, nous avons enlevé les scratchs qui maintenaient les câbles, puis nous avons identifié chaque imprimante avec un morceau de scotch sur lequel nous avons écrit son numéro afin de ne pas les mélanger pendant le remontage. Nous avons ensuite retiré les imprimantes, leurs supports, puis démonté les différents étages de l'étagère.
+
+L'étage du milieu et celui du haut ont été remontés plusieurs crans plus haut afin de libérer un troisième niveau pour accueillir deux imprimantes supplémentaires. Pendant le remontage, nous avons du inversé les traverses de deux étages afin de redescendre la multiprise à une hauteurs accessible de tous, ce qui nous a également obligés à déplacer les numéros des machines.
+Nous avons ensuite revissé les supports noirs des imprimantes.
+<div style="clear:both;"></div>
+
+Après avoir changé la disposition des étages, nous avons donc remis les imprimantes sur les supports, puis nous les avons rebranchée, avant de faire du **cable management** afin d'éviter d'avoir des câbles qui trainent partout et qui puissent géner les imprimantes.
+<div style="margin-top:15px; text-align:center;">
+  <img src="images\Organisation Imprimantes 3D\etage-droite-apres-version1.jpg" width="300" style="display:block; margin:0 auto; max-width:100%;">
+</div>
 
 ### Jour 20 (Mardi 7 juillet 2026)
 
+Le lendemain, nos responsables nous ont informé qu'ils avaient remarqué que les étagères avaient finalement été remontées un peu trop haut, ce qui compliquait l'accès aux imprimantes pour les personnes de petite taille. Nous avons donc redémonté les étages et les avons redescendus de quelques crans avant de tout remonter.
+
+Une fois l'étagère de droite terminée, nous avons appliqué le même principe sur l'étagère de gauche. Nous avons débranché les imprimantes et la multiprise, retiré les scratchs, enlevé les imprimantes et leurs supports, puis déplacé les étages en faisant également attention à repositionner la multiprise au bon endroit. Les supports ont dû être légèrement décalés à cause des câbles présents sur le mur. Nous avons ensuite remis les imprimantes, rebranché tous les équipements, refait le câble management avec les scratchs, vérifié que les numéros des machines correspondaient bien et déplacé certains porte-bobines.
+
+<img src="images\Organisation Imprimantes 3D\imprimantes-apres-organisation.jpg" width="300" style="float:right; margin-right:15px; margin-left:15px;">
+Les deux étagères sont maintenant prêtes. Celle de droite accueille désormais six imprimantes (deux par étage) et celle de gauche est déjà prête pour recevoir deux imprimantes supplémentaires lorsqu'elles arriveront. Il reste encore à fabriquer les plaques des machines 11 et 12, imprimer de nouveaux porte-bobines ainsi que de nouveaux bacs à purges.
+<div style="clear:both;"></div>
 
 ### Jour 21 (Mercredi 8 juillet 2026)
 
+Aujourd'hui, j'ai continué ma documentations par rapport à l'organisation des imprimantes, et j'ai commencé a y mettre des images.
+
+<img src="images\Organisation Imprimantes 3D\piece-coverfront.png" width="300" style="float:right; margin-right:15px; margin-left:15px;">
+Un collègue a partagé à mon camarade et moi les fichiers 3D afin que l'ont produise les supports bobines et les supports d'étiquette.
+Je devais récuperer un fichier `.svg` ou `.dxf` à partir de ces modèle 3D, donc j'ai du récupérer sur ces fichier cette pièce, la dupliquer sur un autre fichier à coté, puis j'ai créé une esquisse sur la face de cette pièce et appuyé sur `U` qui, sur OnShape, permet de copier tout les contours d'une face d'une pièce sur l'esquisse, ca rend la vie beaucoup plus facile car je n'ai pas besoin de récuperer les mesures de la pièce et de refaire tout à la main.
+Sans cette méthode, il était impossible pour moi de récuperer un fichier `.dxf` de cette pièce.
+<div style="clear:both;"></div>
+
+Mon camarade et moi sommes ensuite parti aider nos collègue à sortir des objets sans interêts et des déchets du stockage, puis nous avons du déplacer la ***`[nom de la machine à résine]`*** dans le PrinterLab afin de pouvoir déplacer la servante. Une fois cette machine déplacée, nous avons enlevé les tiroirs de la servante, déplacé la servante du ResinLab au Stockage, puis remis les étages.
+<p align="center">
+  <img src="images\Déplacement des servantes\servante-sans-resine.jpg" width="27%">
+  <img src="images\Déplacement des servantes\servante-sans-tirroir.jpg" width="30%">
+  <img src="images\Déplacement des servantes\servante-dans-stockage.jpg" width="28%">
+</p>
 
 ### Jour 22 (Jeudi 9 juillet 2026)
 
