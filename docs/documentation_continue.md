@@ -125,20 +125,43 @@ Mon camarade et moi sommes ensuite parti aider nos collègue à sortir des objet
 
 ### Jour 22 (Jeudi 9 juillet 2026)
 
+Journée en télétravail pendant laquelle j'ai amélioré ma documentation en créant les pages sur mes missions, en les documentant et en y mettant des images.
 
 ### Jour 23 (Vendredi 10 juillet 2026)
 
+Ce jour ci, nous avons continué de documenter nos réalisation en les illustrant avec des images et en étant clair dans nos explications.
 
+Nous avons également eu pour mission de recoler la mousse accoustique du MédiaLab qui s'était décolée à cause de la chaleur. Il a fallu les recoller assez vite tout en le faisant proprement car il y avait une visite mercredi 15 juillet après-midi. Le lundi et le mardi étant des jours de congés, nous n'avions que ce vendredi après-midi ainsi que le mercredi matin pour le faire. Nous l'avons bouclé ce vendredi mais avons également conclu que nous devrions revérifier l'état des mousses le mercredi. Si notre manière de recoller les mousses n'ont pas été concluant et que des mousses se sont décollées, il faudra toutes les enlever du mur pour au moins avoir des murs propres.
+<p align="center">
+  <img src="\images\Mousses Accoustiques\gauche_bien.jpg" width="30%">
+  <img src="\images\Mousses Accoustiques\droite_bien.jpg" width="30%">
+</p>
 
 ## Semaine 6
 ### Jour 24 (Lundi 13 juillet 2026)
 
+Pont du 14 juillet
 
 ### Jour 25 (Mardi 14 juillet 2026)
 
+14 juillet fête nationale <!--(on perd 2-0 contre l'Espagne en demi-finale à cause de l'immonde Tchouameni)-->
 
 ### Jour 26 (Mercredi 15 juillet 2026)
 
+Aujourd'hui, nous avons vérifié les mousses accoustiques et... elles sont tombées. Le coté droit est **complétement** tombé, tandis que le coté gauche était également décolé mais les mousses sont quand même restées _**sur le mur**_. Nous avons donc décidé de toutes les enlever et les ranger dans un coin de la pièce pour ne pas avoir la pièce en désordre lors du passage de la visite. Nous avons également enlevé les scotchs double-face qui était présents sur le mur pour rendre le tout moins brouillon.
+<p align="center">
+  <img src="images\Mousses Accoustiques\mousses_mercredi_matin.jpg" width="30%">
+  <img src="images\Mousses Accoustiques\murs_sans_mousses.jpg" width="30%">
+</p>
+
+Nous avons également jeté des carton et les avons mis dans le ResinLab qui, pour l'instant, est principalement utilisé à des fins de poubelles et de mise de coté des objets non-voulus.
+
+En fin de journée, nous avon déplacé tout les cartons et autres objets du labo 3 vers le labo 4 pour que les paillasses du labo 3 puissent être démontées vendredi.
+<p align="center">
+  <img src="images\Labo 3\paillasse_avec_cartons.jpg" width="30%">
+  <img src="images\Labo 3\paillasse_sans_cartons.jpg" width="30%">
+  <img src="images\Labo 3\debaras_dans_labo_4.jpg" width="30%">
+</p>
 
 ### Jour 27 (Jeudi 16 juillet 2026)
 
