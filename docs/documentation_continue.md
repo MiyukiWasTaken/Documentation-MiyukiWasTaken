@@ -165,6 +165,7 @@ En fin de journée, nous avon déplacé tout les cartons et autres objets du lab
 
 ### Jour 27 (Jeudi 16 juillet 2026)
 
+J'ai continué ma documentation en mentionnant nos missions de déplacement de servante et de recollage des mousses accoustique, nous avons également aidé dexu personne de Unimakers pour changer le support de leur table de test de robots.
 
 ### Jour 28 (Vendredi 17 juillet 2026)
 
