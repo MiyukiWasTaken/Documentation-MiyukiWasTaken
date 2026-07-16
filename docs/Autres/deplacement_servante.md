@@ -1,11 +1,11 @@
 ---
 layout: default
 nav_order: 4
-title: Gestion du stockage
+title: Déplacement d'une servante
 parent: Autres missions
 ---
 
-# Gestion du stockage
+# Déplacement d'une servante
 
 Dans le cadre d'un aménagement de la pièce de stockage, les résponsables du MakerSpace ont eu besoin de faire le tri dans la pièce de stockage afin de sortir tout ce qui n'as pas ou plus sa place. Nous les avons donc aidé a sortir tout ces objets avec pas ou peu d'interêt dans le couloir en attendant qu'ils les déplacent dans un autre endroit.
 
