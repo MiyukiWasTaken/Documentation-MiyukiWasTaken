@@ -1,7 +1,7 @@
 ---
 layout: home
 nav_order: 1
-title: Accueil
+title: Accueil et explication du stage
 permalink: /
 ---
 
@@ -15,3 +15,7 @@ Bienvenue sur la site de documentation de mes travaux au sein du MakerSpace d'Un
 ## Qui suis-je ?
 
 Je suis Raphaël PERU, un étudiant en Bachelor Systèmes Numériques et Technologies Innovante dans l'école d'ingénieur UniLaSalle Amiens, et je réalise un stage de 2 mois dans le MakerSpace de cette école.
+
+
+## Le contexte du stage
+

@@ -54,7 +54,7 @@ Scannez la zone de travail avec le bouton « Refresh background » pour afficher
 
 <img src="../images/xTool P3/bouton-refresh-background.png" alt="Zone de travail scannée" width="600" style="margin-top:15px;">
 
-Vous verez ensuite sur le logiciel xTool la zone de travail tel qu'elle l'est réellement, avec le matériau posé dessus. Le matériau se verra également recouvert d'une grille qui nous permet de compendre qu'il a bien été reconnu comme matériau. 
+Vous verez ensuite sur le logiciel xTool la zone de travail tel qu'elle l'est réellement, avec le matériau posé dessus.
 
 **Refermez ensuite le couvercle de la machine.**
 

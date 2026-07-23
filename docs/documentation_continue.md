@@ -165,21 +165,26 @@ En fin de journée, nous avon déplacé tout les cartons et autres objets du lab
 
 ### Jour 27 (Jeudi 16 juillet 2026)
 
-J'ai continué ma documentation en mentionnant nos missions de déplacement de servante et de recollage des mousses accoustique, nous avons également aidé dexu personne de Unimakers pour changer le support de leur table de test de robots.
+J'ai continué ma documentation en mentionnant nos missions de déplacement de servante et de recollage des mousses accoustique, nous avons également aidé deux personne de Unimakers pour changer le support de leur table de test de robots.
 
 ### Jour 28 (Vendredi 17 juillet 2026)
 
-
+J'ai assemblé les porte-bobines et je les ai vissés à l'étagère des imprimantes, il me manque juste les étiquettes pour les imprimanes 9, 10 (pas encore existantes), 11 et 12 (en place) pour finir le tout, mais je n'ai pas le fichier fais pour. Je devrais le recréer moi-même s'il n'est pas rentrouvé bientôt.
 
 ## Semaine 7
 ### Jour 29 (Lundi 20 juillet 2026)
 
+J'ai continué ma documentation, et nous devons penser à faire des impressions 3D de textes pour chaque pièces du MakerSpace pour le rendre plus lisibles à ceux qui viennent rarement.
 
 ### Jour 30 (Mardi 21 juillet 2026)
 
+Encore de la documentation.
+
+J'ai également commencé a faire les textes similaires au "RepairSpace" pour les accrocher au plafond a coté de chaque pièces.
 
 ### Jour 31 (Mercredi 22 juillet 2026)
 
+Nous avons une mini-soutenance vendredi 24 et nous avons donc réfléchi à quel plan nous allions appliquer pour contruire notre diaporama. Nous sommes tombé en désacord sur quels titres nous allions mettre dans le sommaire mais nous avons finalment compris que le problème était lié à un malentendu, j'ai mal expliqué à mon camarade mon point de vue et il aura fallu 1h30 pour finalement faire tomber le malentendu et être d'accord.
 
 ### Jour 32 (Jeudi 23 juillet 2026)
 

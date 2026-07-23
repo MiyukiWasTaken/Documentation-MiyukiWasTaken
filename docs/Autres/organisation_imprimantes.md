@@ -45,3 +45,20 @@ Une fois les supports prêts, nous avons pu remettre délicatement les imprimant
 </div>
 
 Nous avons essayé de faire un _cable management_ un minimum propre. Les câbles sont regroupés s'il le peuvent, et aucun câble ne pend de manière à géner les imprimantes en dessous. Il serait néanmoins interessant de faire passer les câbles sous les machines dans la mesure du possible pour les cacher et rendre le tout plus esthetique.
+
+## Créations des 4 porte-bobines et des 4 étiquettes
+
+Mon camarade a imprimé en 3D les pièces nécessaires pour assembler les 4 porte-bobines. Il en a profité pour également imprimer les supports des étiquettes.
+
+Il a ensuite mis des inserts dans les pièces afin de visser plus simplement et bien droit. 
+<p align="center">
+  <img src="..\images\Organisation Imprimantes 3D\porte_bobine_imprimé.jpg" width="30%">
+  <img src="..\images\Organisation Imprimantes 3D\mise_en_place_inserts.gif" width="30%">
+</p>
+
+J'ai ensuite découpé au laser les caches des porte-bobines dans de l'acrylique rouge.
+La découpe faite, je suis parti assembler les porte-bobines et je les ai fixés au deuxième étage avec mes caches que je venais de découper.
+<p align="center">
+  <img src="..\images\Organisation Imprimantes 3D\porte_bobine_cache.jpg" width="30%">
+  <img src="..\images\Organisation Imprimantes 3D\porte_bobine_monté.jpg" width="30%">
+</p>
