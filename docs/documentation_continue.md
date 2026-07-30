@@ -188,22 +188,29 @@ Nous avons une mini-soutenance vendredi 24 et nous avons donc réfléchi à quel
 
 ### Jour 32 (Jeudi 23 juillet 2026)
 
+Journée en télétravail, nous avons fait notre diaporama pour notre mini-soutenance qui nous permettra de corriger des problèmes de contenu ou de présentation sans avoir besoin de faire toute la soutenance directement.
 
 ### Jour 33 (Vendredi 24 juillet 2026)
 
-
+Nous avons passé notre mini-soutenance et reporté ses problèmes afin de ne pas reproduire les mêmes erreurs pour la soutenance finale.
 
 ## Semaine 8
 ### Jour 34 (Lundi 27 juillet 2026)
 
 
+
 ### Jour 35 (Mardi 28 juillet 2026)
 
+Debut de modélisation
 
 ### Jour 36 (Mercredi 29 juillet 2026)
 
+Modélisation 3D, séparations en multiples parties
 
 ### Jour 37 (Jeudi 30 juillet 2026)
 
+Impression 3D du "Pr" et problème de supports avec une extrusion trop grande (06mm et 2mm)
+
+Je dois également mettre ma doc sur la documentation officielle du makerspace.
 
 ### Jour 38 (Vendredi 31 juillet 2026)
