@@ -197,7 +197,7 @@ Nous avons passé notre mini-soutenance et reporté ses problèmes afin de ne pa
 ## Semaine 8
 ### Jour 34 (Lundi 27 juillet 2026)
 
-
+J'ai rédigé un onglet contexte général du stage et du lieu dans le site
 
 ### Jour 35 (Mardi 28 juillet 2026)
 
