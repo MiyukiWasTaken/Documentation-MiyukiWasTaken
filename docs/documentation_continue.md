@@ -192,25 +192,32 @@ Journée en télétravail, nous avons fait notre diaporama pour notre mini-soute
 
 ### Jour 33 (Vendredi 24 juillet 2026)
 
-Nous avons passé notre mini-soutenance et reporté ses problèmes afin de ne pas reproduire les mêmes erreurs pour la soutenance finale.
+Nous avons passé notre mini-soutenance et reporté ses problèmes afin de ne pas reproduire les mêmes erreurs pour la soutenance finale. Tout ces problèmes repérés nous permettrons de réaliser une meilleur soutenance.
 
 ## Semaine 8
 ### Jour 34 (Lundi 27 juillet 2026)
 
-J'ai rédigé un onglet contexte général du stage et du lieu dans le site
+J'ai passé cette journée à préparer et rédiger une paragraphe de contexte général du stage pour que l'entièreté de mon rapport soit contenu dans ce projet de site internet. C'est d'ailleurs une forme de rapport qui pourrait être utilisée pour les futurs étudiant puisque qu'il permet d'apprendre un langage de rédaction, il permet d'également mieux apréhender les éditeurs de codes comme ***`VS Code`***, le tout en étant un moyen plus divertissant et interessant contrairement à une rédaction bête et brusque d'un rapport assez fade.
 
 ### Jour 35 (Mardi 28 juillet 2026)
 
-Debut de modélisation
+Un de mes collègue m'a demandé d'imprimer en 3D les noms des différentes pièces du MakerSpace. J'ai donc commencer à modéliser ces textes avec des logiciels comme Inkscape et OnShape.
 
 ### Jour 36 (Mercredi 29 juillet 2026)
 
-Modélisation 3D, séparations en multiples parties
+J'ai continué le premier texte et j'ai fais en sorte de le séparer en plusieurs partie, puisque le plateau d'impression des BambuLab A1 Mini n'est pas asser grand pour acceuilir le texte entier. J'ai également mis une coque pour éviter d'utiliser du filament pour rien puisque en faire un bloc n'aura aucune utilité qui valent l'utilisation de grammes de filaments additionnel.
 
 ### Jour 37 (Jeudi 30 juillet 2026)
 
-Impression 3D du "Pr" et problème de supports avec une extrusion trop grande (06mm et 2mm)
+J'ai lancé l'impression 3D du "Pr" de mon texte (PrinterLab) mais j'ai rencontré un problème assez spécial avec les supports.
+Dans l'impression, j'ai du faire des extrusions pour enlever et ajouter de la matière afin de faire une piyce différente pour chaque lettres et coques du modèle 3D afin que je puisse les selectionner séparément dans OrcaSlicer qui permet de lancer les impressions. Cependant, j'avais enlevé trop de matière pour les lettres et il y avait donc un vide 
+
+
+et problème de supports avec une extrusion trop grande (06mm et 2mm)
 
 Je dois également mettre ma doc sur la documentation officielle du makerspace.
 
+Il faut que je documente la machine dans son utilisation générale puis ensuite documenter comment faire des gravures decoupes etc.
+
 ### Jour 38 (Vendredi 31 juillet 2026)
+
