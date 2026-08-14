@@ -20,7 +20,7 @@ Pour ce faire, il a d’abord fallu déplacer la machine à résine située sur 
 Après cela, nous avons retiré chaque tiroir de la servante, en faisant attention au contenu qu’il contenait. Nous les avons posés sur le côté, en veillant à conserver l’ordre de rangement, afin de remettre les tiroirs dans le bon sens à la fin. Le tiroir du haut a été déposé le plus loin de tous, tandis que celui du bas a été placé le plus près de nous.
 <p align="center">
   <img src="../images/Déplacement des servantes/tirroir-servante.jpg" width="36%">
-  <img src="../images/Déplacement des servantes/tout-les-tiroirs.jpg" width="25%">
+  <img src="../images/Déplacement des servantes/tout-les-tirroirs.jpg" width="25%">
   <img src="../images/Déplacement des servantes/servante-sans-tiroir.jpg" width="34%">
 </p>
 

@@ -131,8 +131,8 @@ Ce jour-là, nous avons continué de documenter nos réalisations en les illustr
 
 Nous avons également eu pour mission de recoller la mousse acoustique du MédiaLab, qui s’était décollée à cause de la chaleur. Il a fallu les recoller assez vite tout en le faisant proprement, car il y avait une visite mercredi 15 juillet en après-midi. Les lundi et mardi étant des jours de congés, nous n’avions que ce vendredi après-midi ainsi que le mercredi matin pour le faire. Nous l’avons bouclé ce vendredi, mais nous avons également conclu que nous devrions revérifier l’état des mousses le mercredi. Si notre manière de recoller les mousses n’a pas été concluante et que des mousses se sont décollées, il faudra toutes les enlever du mur pour au moins avoir des murs propres.
 <p align="center">
-  <img src="/images/Mousses Accoustiques/gauche_bien.jpg" width="30%">
-  <img src="/images/Mousses Accoustiques/droite_bien.jpg" width="30%">
+  <img src="images/Mousses Accoustiques/gauche_bien.jpg" width="30%">
+  <img src="images/Mousses Accoustiques/droite_bien.jpg" width="30%">
 </p>
 
 ## Semaine 6

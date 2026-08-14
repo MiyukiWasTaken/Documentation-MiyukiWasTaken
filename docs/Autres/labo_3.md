@@ -61,6 +61,4 @@ Voici le Labo 3 vidé après notre travail. Il restait encore des câbles et du 
 ### 3 juillet 2026
 Quelques jours plus tard, les cadenas étaient retirés et les liens métalliques coupés. Les derniers câbles et matériels ont donc pu être retirés du Labo 3. De plus, une des 12 paillasses a été démontée.
 
-<img src="../images/Labo 3/labo-3-vide-3-juillet.JPG" width="600" style="margin-top:15px;">
-
-### ?
+<img src="../images/Labo 3/labo-3-vide-3-juillet.jpg" width="600" style="margin-top:15px;">

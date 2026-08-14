@@ -34,13 +34,13 @@ Parmi les barres avant de chaque étage, l’une des trois barres porte une mult
 Une fois les barres avant, arrière et latérales enlevées, il a fallu les remettre dans l’ordre inverse : latérales, puis avant et arrière.
 L’étage étant remis en place, on a pu remettre les supports d’imprimantes puis les revisser.
 <div style="margin-top:15px; text-align:center;">
-  <img src="..\images\Organisation Imprimantes 3D\etage-droite-apres-changement.jpg" width="300" style="display:block; margin:0 auto; max-width:100%;">
+  <img src="../images/Organisation Imprimantes 3D/etage-droite-apres-changement.jpg" width="300" style="display:block; margin:0 auto; max-width:100%;">
 </div>
 
 ### Remise en place des imprimantes
 Une fois les supports prêts, nous avons pu remettre délicatement les imprimantes 3D en place, en faisait toujours attention aux câbles. Nous avons ensuite rebranché la multiprise sur le secteur, et les 4 imprimantes sur la multiprise comme à l'origine.
 <div style="margin-top:15px; text-align:center;">
-  <img src="..\images\Organisation Imprimantes 3D\etage-droite-apres-final.jpg" width="300" style="display:block; margin:0 auto; max-width:100%;">
+  <img src="../images/Organisation Imprimantes 3D/etage-droite-apres-final.jpg" width="300" style="display:block; margin:0 auto; max-width:100%;">
 </div>
 
 Nous avons essayé de faire un _cable management_ un minimum propre. Les câbles sont regroupés s'il le peuvent, et aucun câble ne pend de manière à géner les imprimantes en dessous. Il serait néanmoins interessant de faire passer les câbles sous les machines dans la mesure du possible pour les cacher et rendre le tout plus esthetique.
@@ -51,7 +51,7 @@ Mon camarade a imprimé en 3D les pièces nécessaires pour assembler les quatre
 
 Il a ensuite mis des inserts dans les pièces afin de visser plus facilement et de façon plus droite.
 <p align="center">
-  <img src="../images/Organisation Imprimantes 3D/porte_bobine_imprime.jpg" width="30%">
+  <img src="../images/Organisation Imprimantes 3D/porte_bobine_imprimé.jpg" width="30%">
   <img src="../images/Organisation Imprimantes 3D/mise_en_place_inserts.gif" width="30%">
 </p>
 
@@ -59,5 +59,5 @@ J’ai ensuite découpé au laser les caches des porte-bobines dans de l’acryl
 La découpe faite, je suis parti assembler les porte-bobines et je les ai fixés au deuxième étage avec mes caches que je venais de découper.
 <p align="center">
   <img src="../images/Organisation Imprimantes 3D/porte_bobine_cache.jpg" width="30%">
-  <img src="../images/Organisation Imprimantes 3D/porte_bobine_monte.jpg" width="30%">
+  <img src="../images/Organisation Imprimantes 3D/porte_bobine_monté.jpg" width="30%">
 </p>
