@@ -5,6 +5,8 @@ title: Accueil et explication du stage
 permalink: /
 ---
 
+<!-- Bonjour ceci est un easter egg ou pas enfaite je sais pas trop, c'est juste une phrase pas cachée donc c'est pas vraiment un easter egg mais en même temps tu ne peux la voir que si tu es venu fouiller le code donc c'est quand même un easter egg, je ne sais pas quoi en penser mais bon bref sacré tunnel en tout cas cet easter egg -->
+
 # Documentation de mon travail au MakerSpace
 
 ## La documentation
