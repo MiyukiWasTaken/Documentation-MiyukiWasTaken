@@ -12,7 +12,7 @@ Voici la documentation continue de mon travail au sein du MakerSpace. J’y list
 J’ai étudié le fonctionnement de la xTool P3 ainsi que les gestes de sécurité à adopter. J’ai également aidé mon camarade à trier les objets utiles et inutiles de la servante dans le stockage du MakerSpace.
 
 ### Jour 2 (jeudi 11 juin 2026)
-<img src="images/xTool P3/test.jpg" width="300" style="float:right; margin-right:15px; margin-left:15px;">
+<img src="images/xTool P3/premiere_utilisation.jpg" width="300" style="float:right; margin-right:15px; margin-left:15px;">
 J’ai créé un fichier test dans le logiciel xTool de mon ordinateur portable afin de tester la xTool P3. J’ai ensuite exporté ce fichier en SVG pour pouvoir l’importer dans le logiciel xTool de l’ordinateur connecté à la machine. J’ai utilisé la xTool P3 pour effectuer une découpe et une gravure sur du bois de 5 mm.
 <div style="clear:both;"></div>
 
