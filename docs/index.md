@@ -5,6 +5,8 @@ title: Accueil et explication du stage
 permalink: /
 ---
 
+<-- Bonjour, profite bien du code :P -->
+
 # Documentation de mon travail au MakerSpace
 
 ## La documentation
