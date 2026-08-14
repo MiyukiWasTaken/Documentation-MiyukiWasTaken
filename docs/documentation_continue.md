@@ -114,7 +114,7 @@ Je devais récupérer un fichier `.svg` ou `.dxf` à partir de ces modèles 3D. 
 Sans cette méthode, il était impossible pour moi de récupérer un fichier `.dxf` de cette pièce.
 <div style="clear:both;"></div>
 
-Mon camarade et moi sommes ensuite partis aider nos collègues à sortir des objets sans intérêt et des déchets du stockage, puis nous avons dû déplacer la ***`[nom de la machine à résine]`*** dans le PrinterLab afin de pouvoir déplacer la servante. Une fois cette machine déplacée, nous avons retiré les tiroirs de la servante, déplacé la servante du ResinLab au stockage, puis remis les étages.
+Mon camarade et moi sommes ensuite partis aider nos collègues à sortir des objets sans intérêt et des déchets du stockage, puis nous avons dû déplacer l'imprimante 3d résine dans le PrinterLab afin de pouvoir déplacer la servante. Une fois cette machine déplacée, nous avons retiré les tiroirs de la servante, déplacé la servante du ResinLab au stockage, puis remis les étages.
 <p align="center">
   <img src="images/Déplacement des servantes/servante-sans-resine.jpg" width="27%">
   <img src="images/Déplacement des servantes/servante-sans-tiroir.jpg" width="30%">
