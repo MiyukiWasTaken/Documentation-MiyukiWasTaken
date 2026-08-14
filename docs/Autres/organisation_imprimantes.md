@@ -51,7 +51,7 @@ Mon camarade a imprimé en 3D les pièces nécessaires pour assembler les quatre
 
 Il a ensuite mis des inserts dans les pièces afin de visser plus facilement et de façon plus droite.
 <p align="center">
-  <img src="../images/Organisation Imprimantes 3D/porte_bobine_imprimé.jpg" width="30%">
+  <img src="../images/Organisation Imprimantes 3D/porte_bobine_imprime.jpg" width="30%">
   <img src="../images/Organisation Imprimantes 3D/mise_en_place_inserts.gif" width="30%">
 </p>
 
@@ -59,5 +59,5 @@ J’ai ensuite découpé au laser les caches des porte-bobines dans de l’acryl
 La découpe faite, je suis parti assembler les porte-bobines et je les ai fixés au deuxième étage avec mes caches que je venais de découper.
 <p align="center">
   <img src="../images/Organisation Imprimantes 3D/porte_bobine_cache.jpg" width="30%">
-  <img src="../images/Organisation Imprimantes 3D/porte_bobine_monté.jpg" width="30%">
+  <img src="../images/Organisation Imprimantes 3D/porte_bobine_monte.jpg" width="30%">
 </p>
